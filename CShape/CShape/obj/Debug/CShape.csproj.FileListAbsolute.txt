@@ -1,0 +1,7 @@
+D:\ngheizit\StatMetering\CShape\CShape\bin\Debug\CShape.exe.config
+D:\ngheizit\StatMetering\CShape\CShape\bin\Debug\CShape.exe
+D:\ngheizit\StatMetering\CShape\CShape\bin\Debug\CShape.pdb
+D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.csprojAssemblyReference.cache
+D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.csproj.CoreCompileInputs.cache
+D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.exe
+D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.pdb
