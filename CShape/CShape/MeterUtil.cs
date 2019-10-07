@@ -169,6 +169,17 @@ namespace CShape
                     }
                 }
             }
+
+            /// <summary>
+            /// 网络布局
+            /// </summary>
+            public static class Net
+            {
+                public static string ShortestPathAnalysis(NoteClass[] notes, NoteClass fromNote, NoteClass toNote)
+                {
+                    return "";
+                }
+            }
         }
     }
 }

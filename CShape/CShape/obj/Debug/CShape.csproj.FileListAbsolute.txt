@@ -5,3 +5,10 @@ D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.csprojAssemblyReference.
 D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.csproj.CoreCompileInputs.cache
 D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.exe
 D:\ngheizit\StatMetering\CShape\CShape\obj\Debug\CShape.pdb
+D:\gitproj\gis2measure\CShape\CShape\bin\Debug\CShape.exe.config
+D:\gitproj\gis2measure\CShape\CShape\bin\Debug\CShape.exe
+D:\gitproj\gis2measure\CShape\CShape\bin\Debug\CShape.pdb
+D:\gitproj\gis2measure\CShape\CShape\obj\Debug\CShape.csproj.CoreCompileInputs.cache
+D:\gitproj\gis2measure\CShape\CShape\obj\Debug\CShape.exe
+D:\gitproj\gis2measure\CShape\CShape\obj\Debug\CShape.pdb
+D:\gitproj\gis2measure\CShape\CShape\obj\Debug\CShape.csprojAssemblyReference.cache

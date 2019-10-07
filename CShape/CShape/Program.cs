@@ -11,49 +11,48 @@ namespace CShape
         static void Main(string[] args)
         {
 
-            PointClass d = MeasureUtil.SpatialLayout.Point.Central.Average(
-                new PointClass(3.58, 6.89),
-                new PointClass(7.45, 6.41),
-                new PointClass(3.21, 4.23),
-                new PointClass(6.47, 4.58),
-                new PointClass(5.32, 6.31),
-                new PointClass(6.54, 2.97),
-                new PointClass(7.81, 6.35),
-                new PointClass(9.65, 7.43),
-                new PointClass(6.78, 5.98),
-                new PointClass(8.92, 4.47)
-            );
-            //Console.WriteLine(d);
+            NoteClass v1 = new NoteClass("v1");
+            NoteClass v2 = new NoteClass("v2");
+            NoteClass v3 = new NoteClass("v3");
+            NoteClass v4 = new NoteClass("v4");
+            NoteClass v5 = new NoteClass("v5");
+            NoteClass v6 = new NoteClass("v6");
+            NoteClass v7 = new NoteClass("v7");
+            NoteClass v8 = new NoteClass("v8");
+            NoteClass v9 = new NoteClass("v9");
+            NoteClass v10 = new NoteClass("v10");
+            NoteClass v11 = new NoteClass("v11");
 
-            PointClass d2 = MeasureUtil.SpatialLayout.Point.Central.Average(
-                new PointClass(4.5, 5.8),
-                new PointClass(1.1, 4.2),
-                new PointClass(1.3, 4.3),
-                new PointClass(2.4, 4.5),
-                new PointClass(4.2, 3.9),
-                new PointClass(1.4, 5.1),
-                new PointClass(2.7, 3.7),
-                new PointClass(2, 2.9),
-                new PointClass(4.2, 3.5),
-                new PointClass(5.1, 2.9)
-            );
-            double[] d3 = MeasureUtil.SpatialLayout.Point.Central.Medium(
-                new PointClass(4.5, 5.8),
-                new PointClass(1.1, 4.2),
-                new PointClass(1.3, 4.3),
-                new PointClass(2.4, 4.5),
-                new PointClass(4.2, 3.9),
-                new PointClass(1.4, 5.1),
-                new PointClass(2.7, 3.7),
-                new PointClass(2, 2.9),
-                new PointClass(4.2, 3.5),
-                new PointClass(5.1, 2.9)
-            );
-            Console.WriteLine(d2);
-            Console.WriteLine(d3[0]);
-            Console.WriteLine(d3[1]);
-            Console.WriteLine(d3[2]);
-            Console.WriteLine(d3[3]);
+            v1.AddPath(v2, 9);
+            v1.AddPath(v4, 8);
+            v2.AddPath(v5, 1);
+            v2.AddPath(v4, 2);
+            v3.AddPath(v1, 1);
+            v3.AddPath(v7, 9);
+            v4.AddPath(v3, 3);
+            v5.AddPath(v4, 5);
+            v5.AddPath(v9, 1);
+            v6.AddPath(v4, 1);
+            v6.AddPath(v5, 3);
+            v6.AddPath(v7, 9);
+            v7.AddPath(v4, 2);
+            v7.AddPath(v10, 1);
+            v8.AddPath(v5, 2);
+            v8.AddPath(v11, 6);
+            v9.AddPath(v6, 6);
+            v9.AddPath(v7, 3);
+            v9.AddPath(v8, 7);
+            v9.AddPath(v11, 10);
+            v10.AddPath(v9, 1);
+            v10.AddPath(v11, 9);
+
+            NoteClass[] notes = new NoteClass[11] 
+            { v1, v2, v3, v4, v5, v6, v7, v8, v9, v10, v11 };
+
+            //foreach(NoteClass note in notes)
+            //{ Console.WriteLine(note.ToString()); }
+
+            //Console.WriteLine(v11.GetShortestPath());
 
             Console.ReadKey();
         }
