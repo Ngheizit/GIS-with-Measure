@@ -48,6 +48,8 @@
     <Compile Include="PointClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WxzUtils\StatGroup.cs" />
+    <Compile Include="WxzUtils\StatIndicators.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
