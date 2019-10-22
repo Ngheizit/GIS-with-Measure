@@ -47,7 +47,7 @@ namespace CShape.WxzUtils
             {
                 xs[i] = points[i].X; ys[i] = points[i].Y;
             }
-            return new FeatureClass.Point(StatIndicators.wxzAverage(xs), StatIndicators.wxzAverage(ys))
+            return new FeatureClass.Point(StatIndicators.wxzAverage(xs), StatIndicators.wxzAverage(ys));
         }
 
         /// <summary>

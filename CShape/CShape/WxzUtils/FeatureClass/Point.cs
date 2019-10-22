@@ -24,6 +24,7 @@ namespace CShape.WxzUtils.FeatureClass
         { this.x = x; this.y = y; }
         public Point(int x = 0, int y = 0)
         { this.x = x; this.y = y; }
-
+        public override string ToString()
+        { return String.Format("({0}, {1})", this.x, this.y); }
     }
 }

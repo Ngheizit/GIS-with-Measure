@@ -10,7 +10,7 @@ namespace CShape
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(WxzUtils.StatSpatial.wxzProximity(
+            Console.WriteLine(WxzUtils.StatSpatial.wxzAverageCenter(
                 new WxzUtils.FeatureClass.Point(3.21, 2.97),
                 new WxzUtils.FeatureClass.Point(3.58, 4.23),
                 new WxzUtils.FeatureClass.Point(5.32, 4.47),
