@@ -1,9 +1,0 @@
-numbers = [12, 83, 50, 35, 55, 72, 40, 85, 29, 65, 75]
-
-function Sum(nums): // 返回求和
-	...
-	return result
-
-function Average(nums): // 返回平均数
-	...
-	return result
