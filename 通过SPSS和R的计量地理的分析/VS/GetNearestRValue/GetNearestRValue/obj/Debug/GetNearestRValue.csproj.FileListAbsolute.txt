@@ -1,0 +1,5 @@
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\GetNearestRValue\GetNearestRValue\bin\Debug\GetNearestRValue.exe
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\GetNearestRValue\GetNearestRValue\bin\Debug\GetNearestRValue.pdb
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\GetNearestRValue\GetNearestRValue\obj\Debug\GetNearestRValue.csproj.CoreCompileInputs.cache
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\GetNearestRValue\GetNearestRValue\obj\Debug\GetNearestRValue.exe
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\GetNearestRValue\GetNearestRValue\obj\Debug\GetNearestRValue.pdb

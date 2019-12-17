@@ -1,0 +1,5 @@
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\LorentzCurve\LorentzCurve\bin\Debug\LorentzCurve.exe
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\LorentzCurve\LorentzCurve\bin\Debug\LorentzCurve.pdb
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\LorentzCurve\LorentzCurve\obj\Debug\LorentzCurve.csproj.CoreCompileInputs.cache
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\LorentzCurve\LorentzCurve\obj\Debug\LorentzCurve.exe
+E:\Desktop\通过SPSS和R的计量地理的分析\VS\LorentzCurve\LorentzCurve\obj\Debug\LorentzCurve.pdb
