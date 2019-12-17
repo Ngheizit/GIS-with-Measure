@@ -1,0 +1,5 @@
+D:\gitproj\gis2measure\CShape\GetShortestPath\GetShortestPath\bin\Debug\GetShortestPath.exe
+D:\gitproj\gis2measure\CShape\GetShortestPath\GetShortestPath\bin\Debug\GetShortestPath.pdb
+D:\gitproj\gis2measure\CShape\GetShortestPath\GetShortestPath\obj\Debug\GetShortestPath.exe
+D:\gitproj\gis2measure\CShape\GetShortestPath\GetShortestPath\obj\Debug\GetShortestPath.pdb
+D:\gitproj\gis2measure\CShape\GetShortestPath\GetShortestPath\obj\Debug\GetShortestPath.csprojResolveAssemblyReference.cache
